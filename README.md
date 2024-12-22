@@ -1,3 +1,1 @@
-# Nayan Shukla
-
-This is my personal portfolio in making.
+This repository contains the template for my personal portfolio, currently in progress. It showcases my skills, projects, and experiences in web development, with a focus on both frontend and backend technologies. The project is a work in progress and will be regularly updated with new content.
